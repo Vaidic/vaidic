@@ -15,7 +15,7 @@ Feel free to [say hi!](mailto:contact-me@vaidicjoshi.in)
 
 ### GitHub stats
 This doesn't take into account the work done in forks, organizations, or private repos.
-![Github stats](https://github-readme-stats.vercel.app/api?username=vaidic&theme=vue&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=vaidic&theme=dracula&show_icons=true)
 
 ## Profile Views
 ![Profile views](https://gpvc.arturio.dev/vaidic)
