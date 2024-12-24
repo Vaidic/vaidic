@@ -1,10 +1,24 @@
-### Hi there 👋
-## I am Vaidic!
-###### ***MLE Engineer*** | ***VMware*** | ***IIT Kgp***
+<!-- Heading -->
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Vaidic!</h3>
 
-I work [@VMware](//github.com/vmware) in our <a target="_blank" rel="noopener noreferrer" href='//goo.gl/jYvhCn'> Bangalore office</a>.
+<p align="center">
+  <a href="https://vaidicjoshi.in/">Website</a> •
+  <a href="https://medium.com/@vaidicjoshi">Medium</a>
+</p>
 
-I’m a full stack developer and technology enthusiast from [Almora](//www.google.co.in/maps/place/Almora) in [Uttarakhand](//www.google.co.in/maps/place/Uttarakhand/), India.
+<!-- Profile Views
+<h6 align="left">
+<img src ="https://komarev.com/ghpvc/?username=vaidic" alt = "Profile Views" >
+</h6>
+-->
+
+---
+
+### About Me
+
+I work [@Oracle](https://github.com/oracle) in our <a target="_blank" rel="noopener noreferrer" href='https://maps.app.goo.gl/tyQZkt5sTGjjnSNb6'> Bangalore office</a>.
+
+I’m a full stack developer and technology enthusiast from [Almora](https://www.google.co.in/maps/place/Almora) in [Uttarakhand](https://www.google.co.in/maps/place/Uttarakhand/), India.
 <br/>Outside of work, I enjoy spending time with my family, cooking and travelling.</p>
 I strongly believe in giving back to the community, and am currently associated with the [NGO “Do-Choti”](//dochoti.in)
 
@@ -13,40 +27,16 @@ I have thoughts on things and stuff. You can read about them [here](https://vaid
 I'm also on [Medium](//medium.com/@vaidicjoshi), [LinkedIn](//linkedin.com/in/vaidicjoshi), [GitHub](//github.com/vaidic) & [Twitter](//twitter.com/VaidicJoshi').
 Feel free to [say hi!](mailto:contact-me@vaidicjoshi.in)
 
-### GitHub stats
-This doesn't take into account the work done in forks, organizations, or private repos.
-![Github stats](https://github-readme-stats.vercel.app/api?username=vaidic&theme=dracula&show_icons=true)
+---
 
-## Profile Views
-![Profile views](https://gpvc.arturio.dev/vaidic)
+<!-- GitHub section -->
 
-### Social Media
+### GitHub Stats
 
-[![Facebook][1.1]][1]
-[![Twitter][2.1]][2]
-[![Linkedin][3.1]][3]
-[![Website][4.1]][4]
-[![Email][5.1]][5]
-[![Github][7.1]][7]
+ <div>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaidic" alt="Vaidic's LangStat" />
+    <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vaidic&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Vaidic's language" height="192px"  width="500px"/> -->
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Vaidic&show_icons=true" />
+</div>
 
-<!-- links to social media icons -->
-<!-- no need to change these -->
-
-<!-- icons with padding -->
-
-[1.1]: https://i.ibb.co/xSyhNZ2/facebook-f-brands-3.png (Facebook)
-[2.1]: https://i.ibb.co/JH8SLwp/twitter-brands-2.png (Twitter)
-[3.1]: https://i.ibb.co/9Hm0z6f/linkedin-brands-2.png (Linkedin)
-[4.1]: https://i.ibb.co/Qj8nL7d/link-solid-3.png (Website)
-[5.1]: https://i.ibb.co/zZh0YKm/envelope-solid-2.png (Email)
-[7.1]: https://i.ibb.co/whmTDdy/github-brands-2.png (Github)
-
-<!-- links to your social media accounts -->
-<!-- update these accordingly -->
-
-[1]: https://www.facebook.com/er.vaidic/
-[2]: http://www.twitter.com/VaidicJoshi
-[3]: https://www.linkedin.com/in/vaidicjoshi/
-[4]: https://vaidicjoshi.in/
-[5]: mailto:vaidic@vaidicjoshi.in
-[7]: http://www.github.com/vaidic
+<!-- THE END -->
