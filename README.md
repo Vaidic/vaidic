@@ -34,7 +34,7 @@ Feel free to [say hi!](mailto:contact-me@vaidicjoshi.in)
 ### GitHub Stats
 
  <div>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaidic" alt="Vaidic's LangStat" />
+<!--     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaidic" alt="Vaidic's LangStat" /> -->
     <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vaidic&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Vaidic's language" height="192px"  width="500px"/> -->
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Vaidic&show_icons=true" />
 </div>
