@@ -1,42 +1,55 @@
-<!-- Heading -->
-<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Vaidic!</h3>
+<!-- Modernized profile README -->
+
+<h1 align="center">Hi, I'm Vaidic 👋</h1>
 
 <p align="center">
-  <a href="https://vaidicjoshi.in/">Website</a> •
-  <a href="https://medium.com/@vaidicjoshi">Medium</a>
+  <a href="https://vaidicjoshi.in" title="Website">vaidicjoshi.in</a> •
+  <a href="https://medium.com/@vaidicjoshi" title="Medium">Medium</a> •
+  <a href="https://linkedin.com/in/vaidicjoshi" title="LinkedIn">LinkedIn</a> •
+  <a href="https://twitter.com/VaidicJoshi" title="Twitter">Twitter</a>
 </p>
 
-<!-- Profile Views
-<h6 align="left">
-<img src ="https://komarev.com/ghpvc/?username=vaidic" alt = "Profile Views" >
-</h6>
--->
+<p align="center">
+  <em>Full‑stack developer • Cloud & systems enthusiast • Open source contributor</em>
+</p>
 
 ---
 
-### About Me
+## About
 
-I work [@Oracle](https://github.com/oracle) in our <a target="_blank" rel="noopener noreferrer" href='https://maps.app.goo.gl/tyQZkt5sTGjjnSNb6'> Bangalore office</a>.
+I’m a full‑stack developer at [Oracle](https://github.com/oracle) based in Bangalore. Originally from Almora, Uttarakhand, I enjoy building reliable systems, writing about engineering, and sharing what I learn.
 
-I’m a full stack developer and technology enthusiast from [Almora](https://www.google.co.in/maps/place/Almora) in [Uttarakhand](https://www.google.co.in/maps/place/Uttarakhand/), India.
-<br/>Outside of work, I enjoy spending time with my family, cooking and travelling.</p>
-I strongly believe in giving back to the community, and am currently associated with the [NGO “Do-Choti”](//dochoti.in)
+Visit my website for a longer bio and portfolio: https://vaidicjoshi.in
 
-I have thoughts on things and stuff. You can read about them [here](https://vaidicjoshi.in).
+## Highlights
 
-I'm also on [Medium](//medium.com/@vaidicjoshi), [LinkedIn](//linkedin.com/in/vaidicjoshi), [GitHub](//github.com/vaidic) & [Twitter](//twitter.com/VaidicJoshi').
-Feel free to [say hi!](mailto:contact-me@vaidicjoshi.in)
+- 🔭 Currently building scalable systems at Oracle
+- ✍️ I write technical posts and essays on my site and Medium
+- 🤝 Volunteer with the NGO Do‑Choti
+- ☕️ When not coding: cooking, travelling, and spending time with family
+
+## Tech & Tools
+
+JavaScript · TypeScript · Node.js · Go · Java · Docker · Kubernetes · AWS · Terraform · CI/CD
+
+## Projects & Links
+
+For curated projects and writing, see my website or check the pinned repositories on my GitHub profile.
+
+- Portfolio & blog: https://vaidicjoshi.in
+- Medium: https://medium.com/@vaidicjoshi
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaidic&show_icons=true&theme=github_dark" alt="GitHub stats"/>
+</p>
 
 ---
 
-<!-- GitHub section -->
+## Contact
 
-### GitHub Stats
+- Website: https://vaidicjoshi.in
+- Email: contact-me@vaidicjoshi.in
 
- <div>
-<!--     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaidic" alt="Vaidic's LangStat" /> -->
-    <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vaidic&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Vaidic's language" height="192px"  width="500px"/> -->
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Vaidic&show_icons=true" />
-</div>
-
-<!-- THE END -->
+<p align="center">Made with ❤️ — thanks for dropping by.</p>
