@@ -40,7 +40,12 @@ Originally from Almora, Uttarakhand. Volunteer with NGO [Do-Choti](https://docho
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaidic&show_icons=true&theme=github_dark" alt="GitHub stats"/>
+  <img src="https://komarev.com/ghpvc/?username=Vaidic&style=flat-square&color=0e75b6" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/Vaidic?label=Followers&style=flat-square" alt="GitHub followers"/>
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaidic&hide_border=true" alt="Vaidic's GitHub streak"/>
 </p>
 
 ---
