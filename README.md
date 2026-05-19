@@ -1,43 +1,41 @@
-<!-- Modernized profile README -->
-
 <h1 align="center">Hi, I'm Vaidic 👋</h1>
 
 <p align="center">
-  <a href="https://vaidicjoshi.in" title="Website">vaidicjoshi.in</a> •
-  <a href="https://medium.com/@vaidicjoshi" title="Medium">Medium</a> •
-  <a href="https://linkedin.com/in/vaidicjoshi" title="LinkedIn">LinkedIn</a> •
-  <a href="https://twitter.com/VaidicJoshi" title="Twitter">Twitter</a>
+  <em>Staff Engineer · Distributed Systems · GenAI</em>
 </p>
 
 <p align="center">
-  <em>Full‑stack developer • Cloud & systems enthusiast • Open source contributor</em>
+  <a href="https://vaidicjoshi.in">Website</a> •
+  <a href="https://medium.com/@vaidicjoshi">Medium</a> •
+  <a href="https://linkedin.com/in/vaidicjoshi">LinkedIn</a> •
+  <a href="https://twitter.com/VaidicJoshi">Twitter</a> •
+  <a href="https://patents.google.com/?inventor=vaidic+joshi">5 Patents</a>
 </p>
 
 ---
 
 ## About
 
-I’m a full‑stack developer at [Oracle](https://github.com/oracle) based in Bangalore. Originally from Almora, Uttarakhand, I enjoy building reliable systems, writing about engineering, and sharing what I learn.
+Staff Engineer at [Oracle Health](https://www.oracle.com/health/), based in Bengaluru.
+15+ years building backend systems, distributed architecture, and high-throughput APIs across fintech, cloud infra, and health-tech.
 
-Visit my website for a longer bio and portfolio: https://vaidicjoshi.in
+Shipped ML-powered product features and hold [5 USPTO patents](https://patents.google.com/?inventor=vaidic+joshi) in distributed systems, log analytics, and NLP/ML.
 
-## Highlights
+Originally from Almora, Uttarakhand. Volunteer with NGO [Do-Choti](https://dochoti.in). Outside work: cooking, travelling, and time with family.
 
-- 🔭 Currently building scalable systems at Oracle
-- ✍️ I write technical posts and essays on my site and Medium
-- 🤝 Volunteer with the NGO Do‑Choti
-- ☕️ When not coding: cooking, travelling, and spending time with family
+## Focus Areas
 
-## Tech & Tools
+- Distributed systems & high-throughput APIs
+- GenAI / LLMs & AI-augmented engineering
+- ML & NLP for observability
+- Cloud infrastructure (AWS · OCI · Kubernetes)
 
-JavaScript · TypeScript · Node.js · Go · Java · Docker · Kubernetes · AWS · Terraform · CI/CD
+## Stack
 
-## Projects & Links
-
-For curated projects and writing, see my website or check the pinned repositories on my GitHub profile.
-
-- Portfolio & blog: https://vaidicjoshi.in
-- Medium: https://medium.com/@vaidicjoshi
+**Backend** · Java/JVM · Go · Node.js  
+**Data** · PostgreSQL · Redis · Cassandra · Elasticsearch · Kafka · Spark  
+**Cloud** · AWS · OCI · Kubernetes (CKAD) · IaC  
+**AI/ML** · RAG · MCP · LLMs · Prompt engineering  
 
 ## GitHub Stats
 
@@ -47,9 +45,4 @@ For curated projects and writing, see my website or check the pinned repositorie
 
 ---
 
-## Contact
-
-- Website: https://vaidicjoshi.in
-- Email: contact-me@vaidicjoshi.in
-
-<p align="center">Made with ❤️ — thanks for dropping by.</p>
+<p align="center">Made with ❤️ from Bengaluru</p>
